@@ -1,0 +1,18 @@
+baseURL: ""
+languageCode: en-us
+title: John Munene
+theme: PaperMod
+
+params:
+  cover:
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowShareButtons: true
+
+menu:
+   main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+   
